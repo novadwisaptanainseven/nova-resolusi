@@ -1,7 +1,8 @@
 Rencana Belajar Nova :
 - JavaScript
   ^ ES6
-  ^ JavaScript Frameworks
+  ^ React
+  ^ Vue
 - Laravel
 - DOM
 - React
