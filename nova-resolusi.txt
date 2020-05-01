@@ -2,3 +2,4 @@ Nova Resolusi
 - Fokus belajar web development : php, ci, laravel, javascript, ajax, css, html
 - Membuat aplikasi web sederhana
 - Meningkatkan skill bagian back end developer
+- Menerima project berupa website
