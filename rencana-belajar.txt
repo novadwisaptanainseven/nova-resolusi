@@ -4,3 +4,4 @@ Rencana Belajar Nova :
   ^ JavaScript Frameworks
 - Laravel
 - DOM
+- React
