@@ -4,3 +4,4 @@ Nova Resolusi
 - Meningkatkan skill bagian back end developer
 - Membuat konten di youtube tentang tutorial
 - Jangan menyerah tetap berusaha karena usaha tidak akan menghianati hasil
+- Mencoba melakukan perubahan dalam branch ini
